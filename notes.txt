@@ -1,0 +1,33 @@
+My first website:
+
+- What is my website about? Craximus Crib
+
+- What information am I presenting on the subject?
+
+Background: Black #000000
+
+Font: Formal
+
+	Embed:
+	<link href="https://fonts.googleapis.com/css?family=Inconsolata|Lobster|Slabo+27px" rel="stylesheet">
+	
+	Specify in CSS:
+    font-family: 'Lobster', cursive;
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Slabo 27px', serif;
+
+Heading 1: Craximus Crib
+
+Craximus Crib is Ben Cottier, Clay Schreiber and Rohan Osbourne. Formed in the dark depths of the musical den known as the Fish Bowl, they bring a fresh sound to the shit beats scene. Indeed, their first EP boldly beared this name. Shit Beats was a revelation at a time when the genre was well and truly becoming stale. The boys are now gearing up for a fresh release. Though Shit Beats 2 continues to deliver "some of the shittest beats I know" (Craximus, 2014), the boys have undeniably stepped up their beat game. Stay tuned for what will undoubtedly be the hottest tape to drop this summer.
+
+Image: Shit beats EP cover
+
+Heading 2: Origins of the Crib
+
+Craximus Crib is the nickname of Great Uncle Craximus' extravagant estate. For those who don't know, Craximus is the Great Uncle of Benjo Bear, half of the notorious rap duo Classic Clay and the Gang. The boys took inspiration from this magnificent mansion and its residents in their search for fresh beats.
+
+Image: Craximus Estate
+
+Heading 2: Shit Beats
+
+Here we review the tracklist of Craximus Crib's debut EP:
